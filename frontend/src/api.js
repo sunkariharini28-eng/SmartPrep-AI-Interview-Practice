@@ -1,4 +1,4 @@
-const BASE = "/api";
+const BASE = "https://smartprep-backend-u5hs.onrender.com/api";
 
 export const getToken = () => localStorage.getItem("token");
 
